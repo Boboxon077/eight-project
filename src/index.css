@@ -1,0 +1,20 @@
+.form-control{
+    margin-bottom: 15px;
+}
+.form-control    label{
+    display: block;
+    margin-bottom: 5px;
+}
+*{
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 10px;
+    list-style: none;
+
+}
+.delete-btn{
+    cursor: pointer;
+    align-items: center;
+}
